@@ -13,7 +13,6 @@
         "--socket=fallback-x11",
         "--device=dri",
         "--socket=wayland",
-        "--filesystem=xdg-pictures",
         "--talk-name=org.freedesktop.secrets",
         "--talk-name=org.gnome.SettingsDaemon.Color"
     ],
@@ -44,8 +43,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/Toxblh/Keenetic-Manager/archive/refs/tags/v0.2.2.tar.gz",
-                    "sha256": "0c6ba05f95516709d38947b9ab5f3553347cde139b7b30de8985970f37925aef"
+                    "url": "https://github.com/Toxblh/Keenetic-Manager/archive/refs/tags/v0.2.3.tar.gz",
+                    "sha256": "f5b41a5886cabe40088162a50c0f47b8c5328bd8518b9c664042a34238b95421"
                 }
             ]
         }
