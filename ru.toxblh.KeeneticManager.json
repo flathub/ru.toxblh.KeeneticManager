@@ -43,8 +43,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/Toxblh/Keenetic-Manager/archive/refs/tags/v0.3.0.tar.gz",
-                    "sha256": "5678040ac82d970ae88b1d3763b8b24d8c24668c42cbddf7b60ee9551d2aa50d"
+                    "url": "https://github.com/Toxblh/Keenetic-Manager/archive/refs/tags/v0.3.1.tar.gz",
+                    "sha256": "55edb01254e0d314ba0ab77475acfee739b17be0cab057f5ccdaa94807f0a01f"
                 }
             ]
         }
