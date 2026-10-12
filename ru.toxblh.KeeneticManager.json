@@ -22,8 +22,8 @@
                 {
                     "type": "archive",
                     "archive-type": "tar-gzip",
-                    "url": "https://api.github.com/repos/Toxblh/Keenetic-Manager/tarball/v0.5.3",
-                    "sha256": "28d0edd4bb1bbc3c16ad2840cfe034a0fd6f6d313d11b40ed0621e0135e637d5"
+                    "url": "https://api.github.com/repos/Toxblh/Keenetic-Manager/tarball/v0.6.0",
+                    "sha256": "77b30f0e39a1110501cb98cd38af3d8c41e2b36a97a9dd9d67c5948d6c502b45"
                 }
             ]
         }
